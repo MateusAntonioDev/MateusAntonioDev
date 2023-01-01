@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mateus Antonio
+- 👀 I’m interested in development and games
+- 🌱 I’m currently learning economy and javascript
