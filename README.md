@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Mateus Antonio
+- 👋 Hi, I’m Mateus Antonio Front-end developer
 - 👀 I’m interested in development and games
 - 🌱 I’m currently learning economy and javascript
